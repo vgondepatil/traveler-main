@@ -11,7 +11,7 @@ import ClipLoader from "react-spinners/ClipLoader";
 
 
 const CHAT_GPT_API = 'https://api.openai.com/v1/chat/completions';
-const API_KEY = 'ADD_YOUR_API';
+const API_KEY = 'sk-proj-0XP9OnavdGbQR5PIKYDbT3BlbkFJ9V1Gk4r52FVYcwggQDOm';
 
 const usaCities = {
   '': ['Undefined'],
